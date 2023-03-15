@@ -1,0 +1,68 @@
+shtml,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+button {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    width: 225px;
+    margin: 0;
+    padding: 10px 38px;
+    border: 3px solid black;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.footer {
+    text-align: center;
+    font-size: bold;
+    margin-top: 5rem;
+
+}
+
+p {
+    font-weight: bold;
+}
+
+a {
+    color: rgb(12, 0, 187);
+    font-weight: bold;
+}
